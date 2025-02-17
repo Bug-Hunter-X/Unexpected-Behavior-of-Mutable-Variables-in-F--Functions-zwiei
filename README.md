@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error related to mutable variables and function scope in F#.  The `bug.fs` file shows a situation where the behavior might be unexpected to programmers coming from other languages. The solution in `bugSolution.fs` illustrates the appropriate way to handle such scenarios.
